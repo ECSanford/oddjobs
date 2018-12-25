@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Michroma');
+#sidenav {
+	position: fixed;
+	top:0px;
+	width: 23%;
+	height: 100%;
+	background-color: #111;
+	border-right: solid;
+	border-color: #666;
+	border-width: 2px;
+}
+a.button {
+	text-decoration: none;
+	display: block;
+	padding: 10px 20px;
+	cursor: pointer;
+	margin-left: 20%;
+	font-size: 1.25em;
+	color: #fff;
+	line-height: 30px;
+	margin: 4px 32px;
+}
+a.button:hover {
+	background-color: #666;
+}
+img#photo {
+	margin-left: 20%;
+	margin-top: 20%;
+	margin-right: 20%;
+	border: solid;
+	border-color: #666;
+	border-width: 2px;
+}
+nav {
+	background-color:#111;
+}
+.menu {
+	font-family: 'Michroma', sans-serif;
+	text-decoration: underline;
+	margin-left: 20%;
+	font-size: 2em;
+	color:#fff;
+}
+
+.aboutme {
+	font-family: 'Michroma', sans-serif;
+	border: solid;
+	border-color: #666;
+	border-width: 2px;
+	margin: 40px 40px 40px 0px;
+	margin-left: 28%;
+	margin-right: 5%;
+	height: 250px;
+}
+.aboutme h1 {
+	margin-left: 60px;
+	font-size: 2.25em;
+	text-decoration: underline;
+}
+.aboutme p {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+	left: 20px;
+
+}
+.header h1 {
+	font-family: 'Michroma', sans-serif;
+	font-size: 2em;
+	margin-left: 30%;
+	padding-top: 30px;
+	line-height: 20px;
+}
+.header h2 {
+	font-family: 'Michroma', sans-serif;
+	font-size: 2em;
+	margin-left: 30%;
+	padding-top: 0px;
+}
+.header {
+	margin-top: -25px;
+	height: 150px;
+	width: 100%;
+	background-color: #aaa;
+	border-bottom: solid;
+	border-color: #ccc;
+	border-width: 2px;
+}
+img#latech {
+	position: relative;
+	float: left;
+	display: table;
+	bottom: 20px;
+	margin-left: 8%;
+
+}
+.reviews {
+	font-family: 'Michroma', sans-serif;
+	border: solid;
+	border-color: #666;
+	border-width: 2px;
+	margin: 40px 40px 40px 0px;
+	margin-left: 28%;
+	margin-right: 5%;
+	height: 250px;
+}
+.reviews h1 {
+	margin-left: 60px;
+}
+.reviews p {
+	margin-left: 60px;
+}
+#selected {
+	background-color: #fff;
+	color: black;
+}
+.jobreq {
+	font-family: 'Michroma', sans-serif;
+	border: solid;
+	border-color: #666;
+	border-width: 2px;
+	margin: 40px 40px 40px 0px;
+	margin-left: 30%;
+	margin-right: 5%;
+	height: 700px;
+}
+.jobreq h1 {
+	margin-left: 60px;
+	font-size: 2.25em;
+	text-decoration: underline;
+}
+.jobreq p {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+	left: 25px;
+}
+.reviewsub {
+	font-family: 'Michroma', sans-serif;
+	border: solid;
+	border-color: #666;
+	border-width: 2px;
+	margin: 40px 40px 40px 0px;
+	margin-left: 30%;
+	margin-right: 5%;
+	height: 450px;
+}
+.reviewsub h1 {
+	margin-left: 60px;
+	font-size: 2.25em;
+	text-decoration: underline;
+}
+.reviewsub p {
+	position: relative;
+	margin-right: 10px;
+	padding-right: 20px;
+	left: 25px;
+}
+.error {
+	color: #FF0000;
+}
