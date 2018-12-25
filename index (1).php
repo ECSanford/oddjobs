@@ -11,10 +11,10 @@
 		<header>
 			<nav>
 				<div id="sidenav">
-					<img src="img/photo.jpg" id="photo" alt="Picture" style="width:160px;height:160px;">
+					<img src="img/photo.jpg" id="photo" alt="Picture" height="160" width="160">
 					<h3 class="menu">Menu</h3>
-					<a href="index.php" class="button">Home</a>
-					<a href="faq.html" class="button" id="selected">F.A.Q.</a></li>
+					<a href="index.html" class="button" id="selected">Home</a>
+					<a href="faq.html" class="button">F.A.Q.</a></li>
 					<a href="jobreq.php" class="button">Job Request</a>
 					<a href="reviewsub.html" class="button">Submit A Review</a>
 				</div>
@@ -26,9 +26,13 @@
 				<h2>Odd Jobs by Ethan</h2>
 			</div>
 			<div class="aboutme">
-				<h1>F.A.Q.</h1>
-				
-				<p>Insert all frequently asked questions here.</p>
+				<h1>About Me</h1>
+				<img src="img/latech.png" id="latech" alt="Logo" height="160" width="160">
+				<p>Hello and welcome to my website! My name is Ethan Sanford.  I am currently studying Computer Science at Louisiana Tech University.  Over the summer I will be doing various yardwork jobs for money.</p>
+			</div>
+			<div class="reviews">
+				<h1>Reviews</h1>
+				<p>Sorry! There are currently no reviews.</p>
 			</div>
 		</section>
 		<footer>

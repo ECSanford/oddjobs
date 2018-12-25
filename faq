@@ -11,12 +11,12 @@
 		<header>
 			<nav>
 				<div id="sidenav">
-					<img src="img/photo.jpg" id="photo" alt="Picture" style="width:160px;height:160px;">
+					<img src="img/photo.jpg" id="photo" alt="Picture" height="130" width="130">
 					<h3 class="menu">Menu</h3>
-					<a href="index.php" class="button">Home</a>
+					<a href="index.html" class="button">Home</a>
 					<a href="faq.html" class="button" id="selected">F.A.Q.</a></li>
-					<a href="jobreq.php" class="button">Job Request</a>
-					<a href="reviewsub.html" class="button">Submit A Review</a>
+					<a href="#" class="button">Job Request</a>
+					<a href="#" class="button">Contact Me</a>
 				</div>
 			</nav>
 		</header>
@@ -27,8 +27,9 @@
 			</div>
 			<div class="aboutme">
 				<h1>F.A.Q.</h1>
-				
-				<p>Insert all frequently asked questions here.</p>
+				<p>Insert text with all F.A.Q.</p>
+			</div>
+			<div>
 			</div>
 		</section>
 		<footer>
